@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow-x: hidden ;
+    background-image: url(https://image.freepik.com/foto-gratis/surtido-pan-horneado_87742-761.jpg);
+    background-size: cover;
+}
+
+
+#menu a {
+    font-size: 18px;
+    font-weight: bold ; 
+}
+
+
+/*Carrusel */
+
+carousel-inner{
+    max-height: 40rem;
+}
+
+.carrusel {
+    margin: 20px;
+    border: solid 1px black;
+}
+
+footer {
+    padding: 5px;
+    margin-top: 25px ;
+
+}
+
