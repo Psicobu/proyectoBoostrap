@@ -34,3 +34,31 @@ footer {
 
 }
 
+.parrafoNosotros {
+    background-color: rgba(245, 245, 245, 0.603);
+}
+
+.parrafoNosotros p {
+    padding: 0;
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 30px;
+    text-indent: 30px;
+    line-height: 1.5;
+
+}
+
+.tituloComision {
+ margin-top: 20px;
+}
+
+.parrafoComision {
+    font-style:italic;
+    background-color: rgba(245, 245, 245, 0.603);
+}
+
+.tituloPresentacion {
+    margin-top: 20px;
+    background-color: rgba(245, 245, 245, 0.603);
+
+}
